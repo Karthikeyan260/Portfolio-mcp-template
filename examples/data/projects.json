@@ -1,0 +1,26 @@
+[
+  {
+    "id": "example-project",
+    "name": "Example Project",
+    "cluster": "Web Apps",
+    "type": "Full-stack web app",
+    "year": 2025,
+    "status": "LIVE",
+    "featured": true,
+    "mission": "One sentence on what the project does and for whom.",
+    "problem": "The problem it solves.",
+    "howItWorks": ["Step or component one.", "Step or component two."],
+    "pipeline": ["input", "processing", "output"],
+    "achievement": "What it achieved or what you learned.",
+    "metrics": [
+      {
+        "label": "users",
+        "value": "100+"
+      }
+    ],
+    "stack": ["Next.js", "PostgreSQL"],
+    "githubUrl": "https://github.com/your-username/example-project",
+    "liveUrl": "https://example-project.example.com/",
+    "caseStudyUrl": null
+  }
+]

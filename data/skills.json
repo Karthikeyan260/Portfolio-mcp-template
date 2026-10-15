@@ -1,0 +1,10 @@
+[
+  {
+    "category": "Languages",
+    "skills": ["Python", "TypeScript"]
+  },
+  {
+    "category": "Frameworks & Tools",
+    "skills": ["React", "Node.js", "Docker"]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "email": "you@example.com",
+  "phone": "Available on request",
+  "location": "City, Country",
+  "resumeUrl": "https://your-portfolio.example.com/resume.pdf",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/your-username"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/your-username/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "company-role",
+    "title": "Your Title",
+    "company": "Your Company",
+    "companyDescription": "What the company does",
+    "location": "City, Country",
+    "startDate": "2024-01",
+    "endDate": null,
+    "current": true,
+    "description": "What you built and the impact it had. Use numbers where you can.",
+    "tags": ["Python", "SQL"]
+  }
+]

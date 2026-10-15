@@ -1,0 +1,18 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "portfolio-mcp",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-01-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "observability": {
+    "enabled": true,
+  },
+  "vars": {
+    "SITE_URL": "https://your-portfolio.example.com/",
+  },
+  // Secrets are NOT set here. Set them with:
+  //   wrangler secret put GEMINI_API_KEY
+  //   wrangler secret put GITHUB_TOKEN
+  // For local `wrangler dev`, put the same keys in a git-ignored `.dev.vars` file instead.
+}

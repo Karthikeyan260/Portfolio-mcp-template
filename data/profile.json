@@ -1,0 +1,24 @@
+{
+  "name": "Your Name",
+  "headline": "Software Engineer",
+  "currentRole": "Your Current Title",
+  "currentCompany": "Your Company",
+  "location": "City, Country",
+  "tagline": "One line that sums up what you build.",
+  "siteUrl": "https://your-portfolio.example.com/",
+  "bio": "Two or three sentences about who you are, what you work on, and the results you are proud of. Agents quote this when someone asks about you.",
+  "focusAreas": [
+    {
+      "title": "Focus area one",
+      "description": "What you do in this area and with which tools."
+    },
+    {
+      "title": "Focus area two",
+      "description": "What you do in this area and with which tools."
+    }
+  ],
+  "highlights": [
+    "A measurable result (e.g. cut processing time by 40%)",
+    "A publication, award, or launch"
+  ]
+}
